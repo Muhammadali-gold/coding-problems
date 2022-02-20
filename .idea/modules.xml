@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RoboContest/RoboContest.iml" filepath="$PROJECT_DIR$/RoboContest/RoboContest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coding-problems.iml" filepath="$PROJECT_DIR$/coding-problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RoboContest/python-utils.iml" filepath="$PROJECT_DIR$/RoboContest/python-utils.iml" />
+    </modules>
+  </component>
+</project>
